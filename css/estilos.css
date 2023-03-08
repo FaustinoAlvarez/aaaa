@@ -1,0 +1,13 @@
+/* reset css */
+* {
+    margin: 0;
+    padding: 0;
+}
+/* hace que el rem mida 10px */
+html{
+    font-size: 62.5%;
+}
+/* fuente */
+* {
+    font-family: 'Roboto', sans-serif;
+}
